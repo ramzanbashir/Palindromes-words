@@ -18,3 +18,16 @@ for (var i = 0; i < arr.length; i++){
 }
 
 console.log(palindromes);
+
+
+// let word = prompt("Enter a word to check Palindrome");
+// let reverse = "";
+// // let j = word.length - 1;
+// for (let i = word.length - 1; i >= 0; i--) {
+//     reverse += word[i];
+// }
+// if (word === reverse) {
+//     document.write("<h2>This is Palindrome</h2>");
+// } else {
+//     document.write("This is not Palindrome");
+// }
